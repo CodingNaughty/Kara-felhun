@@ -50,7 +50,7 @@ The script will automatically tap on the watermelon (or wherever you specify) at
 ### Basic Usage
 
 ```
-python auto_tapper.py
+python kara-felhun.py
 ```
 
 This will tap in the center of your screen by default.
@@ -58,7 +58,7 @@ This will tap in the center of your screen by default.
 ### Advanced Options
 
 ```
-python auto_tapper.py --x 500 --y 800 --interval 0.005 --jitter 15 --duration 3600
+python kara-felhun.py --x 500 --y 800 --interval 0.005 --jitter 15 --duration 3600
 ```
 
 Parameters:
@@ -96,10 +96,10 @@ Press `Ctrl+C` in the terminal/command prompt to stop the script.
 
 ## Example Commands:
 
-python3 auto_tapper.py --interval 0.005 --jitter 3 --karaa
+python3 kara-felhun.py --interval 0.005 --jitter 3 --karaa
 
-python3 auto_tapper.py --interval 0.006 --jitter 5 --karaa
+python3 kara-felhun.py --interval 0.006 --jitter 5 --karaa
 
-python3 auto_tapper.py --interval 0.006 --jitter 5 --karaa
+python3 kara-felhun.py --interval 0.006 --jitter 5 --karaa
 
 # Kara-felhun
